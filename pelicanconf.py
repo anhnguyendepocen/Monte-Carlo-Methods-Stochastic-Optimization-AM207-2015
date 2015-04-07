@@ -49,6 +49,7 @@ def do_menuitems(start):
     menuitems = [
         ('Lectures', "%s/2015/lectures.html" % start ),
         ('Homework', "%s/2015/homework.html" % start ),
+        ('Project', "%s/2015/project.html" % start ),
         ('Schedule', "%s/2015/schedule.html" % start ),
         ('Syllabus', "%s/2015/syllabus.html" % start ),
         ('Policies', "%s/2015/policies.html" % start ),
