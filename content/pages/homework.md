@@ -29,4 +29,13 @@ Author: Verena Kaynig-Fittkau and Pavlos Protopapas
 <p>
 <a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW6.ipynb"> Homework 6 </a>
 </p>
+<p>
+<a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW7.ipynb"> Homework 7 </a>
+</p>
+<p>
+<a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW8.ipynb"> Homework 8 </a>
+</p>
+<p>
+<a href="http://nbviewer.ipython.org/github/AM207/2015/blob/master/Homework/HW9.ipynb"> Homework 9 </a>
+</p>
 
